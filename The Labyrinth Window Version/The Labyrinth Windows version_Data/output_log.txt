@@ -1,0 +1,79 @@
+Initialize engine version: 4.7.0f1 (9c73fd3cda99)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8079 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\UnitiGame\The Labyrinth Window Version\The Labyrinth Windows version_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass 'BASE' shader state not supported
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+UnloadTime: 3.469655 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1055.
+Total: 0.404724 ms (FindLiveObjects: 0.025843 ms CreateObjectMapping: 0.007314 ms MarkObjects: 0.108007 ms  DeleteObjects: 0.010483 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1773)
+
+UnloadTime: 1.100556 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 750.
+Total: 0.600990 ms (FindLiveObjects: 0.016091 ms CreateObjectMapping: 0.008289 ms MarkObjects: 0.091672 ms  DeleteObjects: 0.264777 ms)
+
